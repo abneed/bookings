@@ -3,3 +3,4 @@ coverage.out
 database.yml
 .DS_Store
 .bookings
+bookings
