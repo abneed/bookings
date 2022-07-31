@@ -1,0 +1,1 @@
+delete from users where email = "abneed@admin.com"
